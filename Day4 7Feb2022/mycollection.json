@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "620100817c0ce6b90c5cd4da"
+  },
+  "course": "MEAN",
+  "modules": {
+    "generic": "2 months",
+    "topics": "html,css,js"
+  },
+  "Batch": [
+    {
+      "size": "small",
+      "count": 15
+    },
+    {
+      "size": "medium",
+      "count": 20
+    }
+  ]
+}]
